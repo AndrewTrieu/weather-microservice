@@ -134,6 +134,10 @@ Three microservices were implemented:
 
 - Historical weather service: This microservice retrieves historical weather data for a location from [OpenWeatherMap](https://openweathermap.org/) based on the given location and UNIX timestamp entered by the user . The frontend sends requests to this microservice by using the `GET /historical-weather` endpoint. The microservice responds with historical weather data in JSON format.
 
+### Video
+
+https://user-images.githubusercontent.com/68151686/233834316-3862b7b4-f5a6-4278-b460-c8b91acd3ae8.mp4
+
 ### Dependencies
 
 The following dependencies were used in the implementation of the microservices:
